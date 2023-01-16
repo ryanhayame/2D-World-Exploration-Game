@@ -34,8 +34,10 @@
 Java
 
 ## Challenges and Lessons Learned:
--
--
+- Working with StdDraw for the first time to manage tile rendering and GUI menus
+- Creating the pseudo-random world generation algorithm was a difficult process that required multiple attempts restarting from the ground up
+- Understanding the different search algorithms and learning how to implement A* efficienctly
+- Learned how to work closely around the CLI and how to handle different types of arguments
 
 ## How to Run:
 -
